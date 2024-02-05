@@ -1,0 +1,401 @@
+City,Population
+Toronto,2.600.000
+Montreal,1.600.000
+Calgary,1.019.942
+Ottawa,812.129
+Edmonton,712.391
+Mississauga,668.549
+North York,636.000
+Winnipeg,632.063
+Vancouver,600.000
+Scarborough,600.000
+Quebec,528.595
+Hamilton,519.949
+Brampton,433.806
+Surrey,394.976
+Laval,376.845
+Halifax,359.111
+Etobicoke,347.948
+London,346.765
+Okanagan,297.601
+Victoria,289.625
+Windsor,278.013
+Markham,261.573
+Oshawa,247.989
+Gatineau,242.124
+Vaughan,238.866
+Kitchener,233.700
+Longueuil,229.330
+Burnaby,202.799
+Ladner,200.000
+Saskatoon,198.958
+Richmond Hill,185.541
+Barrie,182.041
+Richmond,182.000
+Nepean,180.000
+Regina,176.183
+Oakville,165.697
+Burlington,164.415
+Greater Sudbury,157.857
+Abbotsford,151.683
+Saguenay,143.692
+St. Catharines,131.989
+Sherbrooke,129.447
+Anmore,126.456
+Levis,126.396
+Kelowna,125.109
+Cambridge,120.372
+Trois-Rivieres,119.693
+Guelph,115.760
+East York,115.365
+Coquitlam,114.565
+Kingston,114.195
+Sydney,105.968
+Delta,101.668
+Dartmouth,101.343
+Thunder Bay,99.334
+St. John's,99.182
+Waterloo,97.475
+Terrebonne,94.703
+Ajax,90.167
+Saint John,87.857
+Pickering,87.838
+Brantford,87.759
+Moncton,87.467
+Nanaimo,84.905
+Milton,84.362
+Sarnia,82.998
+Niagara Falls,82.000
+Willowdale,79.440
+Saint-Laurent,77.391
+Chilliwack,77.000
+Repentigny,76.237
+Fort McMurray,76.000
+Peterborough,75.877
+Sault Ste. Marie,74.948
+Newmarket,74.295
+La Haute-Saint-Charles,74.070
+Red Deer,73.593
+Saint-Leonard,73.423
+Saint-Jean-sur-Richelieu,71.613
+Lethbridge,70.617
+Maple Ridge,70.000
+Brossard,69.575
+Kamloops,68.714
+Notre-Dame-de-Grace,67.000
+White Rock,66.450
+Prince George,65.558
+Medicine Hat,63.138
+Norfolk County,60.847
+Drummondville,59.489
+New Westminster,58.549
+St. Albert,57.719
+Sherwood Park,55.063
+Saint-Jerome,54.948
+Jonquiere,54.842
+Granby,53.979
+Fredericton,52.337
+Welland,50.331
+Saint-Hyacinthe,50.326
+North Bay,50.170
+Belleville,49.454
+Shawinigan,49.161
+Dollard-Des Ormeaux,48.930
+Cornwall,48.821
+North Vancouver,48.000
+Vernon,47.274
+Blainville,46.493
+West End,44.560
+Chatham,43.550
+Timmins,42.997
+Chateauguay,42.786
+Quinte West,42.697
+West Vancouver,42.694
+Charlottetown,42.402
+Rimouski,42.240
+Saint-Eustache,42.062
+Grande Prairie,41.462
+Boucherville,39.062
+Salaberry-de-Valleyfield,38.662
+Penticton,37.721
+St. Thomas,36.110
+Rock Forest,35.500
+Joliette,34.772
+Mascouche,34.626
+Mirabel,34.626
+Prince Albert,34.609
+Victoriaville,34.426
+Brant,34.415
+Woodstock,33.892
+Campbell River,33.430
+Ancaster,33.232
+Courtenay,32.793
+Orangeville,32.640
+North Cowichan,32.272
+Moose Jaw,32.166
+Midland,31.502
+Cote-Saint-Luc,31.395
+Saint-Georges,31.173
+Val-d'Or,31.123
+Stratford,30.233
+Orillia,30.178
+Pointe-Claire,30.161
+Baie-Comeau,29.808
+Alma,29.526
+Sainte-Julie,29.019
+West Kelowna,28.793
+Port Moody,27.512
+Lloydminster,27.000
+Boisbriand,26.483
+Brandon,26.234
+Vaudreuil-Dorion,25.789
+Thetford-Mines,25.704
+Walnut Grove,25.683
+Prince Edward,25.496
+Sainte-Therese,25.224
+Airdrie,24.673
+Mount Pearl,24.671
+Saint-Bruno-de-Montarville,24.388
+Rouyn-Noranda,24.023
+Saint-Constant,23.957
+Brockville,23.886
+Langley,23.606
+Whitehorse,23.272
+Owen Sound,22.625
+Chambly,22.608
+Sept-Iles,22.582
+Langford,22.459
+Duncan,22.199
+La Prairie,21.763
+Lower Sackville,21.379
+Port Alberni,21.282
+Keswick,21.000
+Varennes,20.950
+Clarence-Rockland,20.790
+Truro,20.650
+Westmount,20.494
+Kirkland,20.491
+Lindsay,20.354
+New Glasgow,20.322
+Cole Harbour,20.000
+Glace Bay,19.968
+Huntsville,19.579
+Terrace,19.443
+North Battleford,19.440
+Beaconsfield,19.194
+Mont-Royal,18.933
+Beloeil,18.927
+Corner Brook,18.693
+Cranbrook,18.610
+Port Colborne,18.599
+Riviere-du-Loup,18.586
+Dieppe,18.565
+Thorold,18.224
+Miramichi,18.129
+Cobourg,18.099
+Dorval,18.088
+Oak Bay,18.015
+Amos,17.918
+Spruce Grove,17.767
+Pitt Meadows,17.410
+Deux-Montagnes,17.402
+Fort St. John,17.402
+Saint-Augustin-de-Desmaures,17.281
+Conception Bay South,17.087
+Saint-Lazare,17.016
+Sainte-Catherine,16.762
+L'Assomption,16.738
+Edmundston,16.643
+L'Ancienne-Lorette,16.516
+Cochrane,16.365
+Lutes Mountain,16.311
+Sainte-Catherine,16.211
+Salmon Arm,16.205
+Rayside-Balfour,16.050
+Petawawa,15.988
+Fort Erie,15.953
+Candiac,15.947
+Yellowknife,15.865
+Collingwood,15.809
+Mont-Saint-Hilaire,15.720
+Camrose,15.686
+Yorkton,15.669
+Saint-Basile-le-Grand,15.605
+Leduc,15.561
+Pembroke,15.551
+Magog,15.550
+Greater Napanee,15.132
+Kenora,15.096
+le Plateau,15.000
+Fort Saskatchewan,14.957
+Okotoks,14.826
+Gaspe,14.819
+Matane,14.812
+Summerside,14.808
+Prince Rupert,14.708
+Swift Current,14.703
+Colwood,14.687
+Rosemere,14.173
+Williams Lake,14.168
+Saint-Lin-Laurentides,14.159
+Simcoe,13.922
+Quesnel,13.788
+Bay Roberts,13.737
+Mont-Laurier,13.405
+Portage la Prairie,12.957
+Dolbeau-Mistassini,12.916
+Powell River,12.779
+Brooks,12.744
+Bathurst,12.714
+Kentville,12.636
+Elliot Lake,12.508
+Thompson,12.467
+Aldergrove,12.363
+Canmore,12.288
+Hawkesbury,12.283
+North Perth,12.254
+Grand Falls-Windsor,12.076
+Parksville,12.000
+Beauharnois,11.918
+Ingersoll,11.874
+Montmagny,11.724
+Cold Lake,11.595
+Sainte-Marie,11.584
+Uxbridge,11.531
+Fall River,11.526
+Amherstburg,11.459
+Sainte-Marthe-sur-le-Lac,11.311
+Wetaskiwin,11.302
+Pincourt,11.197
+Paris,11.177
+Becancour,11.134
+North Saanich,11.089
+Cowansville,10.887
+Dawson Creek,10.802
+Sainte-Anne-des-Plaines,10.680
+Lambton Shores,10.656
+Sainte-Adele,10.634
+Les Coteaux,10.622
+Whistler,10.600
+Smiths Falls,10.553
+Sylvan Lake,10.518
+Temiskaming Shores,10.442
+Cantley,10.412
+Rawdon,10.400
+Labrador City,10.313
+Angus,10.269
+Prevost,10.132
+Mercier,10.121
+Lacombe,10.059
+Strathmore,10.009
+Hanceville,10.000
+South Huron,9.982
+Bells Corners,9.977
+L'Ile-Perrot,9.927
+Estevan,9.904
+Hinton,9.889
+Notre-Dame-de-l'Ile-Perrot,9.885
+High River,9.826
+Nelson,9.813
+Carleton Place,9.743
+Trail,9.707
+Selkirk,9.653
+Lorraine,9.613
+Arnprior,9.607
+Steinbach,9.607
+Lachute,9.562
+Val-des-Monts,9.539
+La Tuque,9.503
+Weyburn,9.362
+Amherst,9.336
+Dorchester,9.329
+Roberval,9.287
+Saint-Raymond,9.273
+Huron East,9.264
+Kapuskasing,9.240
+Saint-Sauveur,9.191
+Oromocto,8.998
+Kitimat,8.987
+La Malbaie,8.959
+Stony Plain,8.939
+Mont-Tremblant,8.892
+Binbrook,8.796
+Whitecourt,8.763
+Lavaltrie,8.762
+Ladysmith,8.740
+Pont-Rouge,8.723
+Castlegar,8.715
+Otterburn Park,8.464
+Dauphin,8.418
+Bois-des-Filion,8.383
+Winkler,8.270
+Concord,8.255
+Bracebridge,8.238
+Notre-Dame-des-Prairies,8.230
+Dryden,8.195
+Taber,8.163
+Morinville,8.108
+Silver Berry,8.089
+Saint-Felicien,8.088
+Saint-Hippolyte,8.083
+Bridgewater,8.070
+Goderich,8.032
+Wild Rose,8.031
+Renfrew,8.018
+Edson,7.975
+Fort Frances,7.931
+Chandler,7.914
+Kirkland Lake,7.775
+Slave Lake,7.661
+Happy Valley-Goose Bay,7.572
+Wasaga Beach,7.567
+Chibougamau,7.563
+Revelstoke,7.533
+Aylmer,7.527
+Pont Rouge,7.518
+Camlachie,7.506
+Banff,7.502
+Yarmouth,7.500
+Carignan,7.426
+Campbellton,7.384
+Beaumont,7.366
+Innisfil,7.345
+Delson,7.322
+Sydney Mines,7.312
+Baie-Saint-Paul,7.288
+Hanover,7.255
+La Sarre,7.206
+Asbestos,7.190
+Merritt,7.179
+Bluewater,7.044
+Coaticook,7.021
+Hampstead,6.996
+Olds,6.947
+Greenwood,6.915
+Gibsons,6.821
+Carbonear,6.814
+Saint-Zotique,6.773
+Kincardine,6.725
+Plessisville,6.677
+Brownsburg-Chatham,6.664
+Ponoka,6.656
+Mont-Joli,6.568
+Rocky Mountain House,6.527
+Kimberley,6.513
+Perth,6.481
+Parry Sound,6.469
+Pointe-Calumet,6.396
+Morden,6.395
+Coaldale,6.317
+Summerland,6.292
+Stephenville,6.278
+Amqui,6.261
+Beauceville,6.226
+Saint-Joseph-du-Lac,6.195
+Sooke,6.145
+Iqaluit,6.124
+Drayton Valley,6.099
+Farnham,6.061
+The Pas,6.055
+Bromont,6.049
+Saint-Felix-de-Valois,6.029

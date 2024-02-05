@@ -1,0 +1,236 @@
+City,Population
+Lima,7.737.002
+Arequipa,841.130
+Callao,813.264
+Trujillo,747.450
+Chiclayo,577.375
+Iquitos,437.620
+Huancayo,376.657
+Piura,325.466
+Chimbote,316.966
+Cusco,312.140
+Pucallpa,310.750
+Tacna,280.098
+Santiago de Surco,251.648
+Ica,246.844
+Juliaca,245.675
+Sullana,160.789
+Chincha Alta,153.076
+Huanuco,147.959
+Ayacucho,140.033
+Cajamarca,135.000
+Puno,116.552
+Tumbes,109.223
+Talara,99.074
+Chosica,88.606
+Huaraz,86.934
+Cerro de Pasco,78.910
+Chulucanas,68.835
+San Isidro,68.309
+Huaral,62.174
+Pisco,61.869
+Catacaos,57.304
+Paita,56.151
+Abancay,55.111
+Huacho,54.545
+Moquegua,54.517
+Ilo,53.476
+Tingo Maria,53.177
+Jaen,52.493
+Tarma,51.350
+Barranca,46.290
+Moyobamba,44.276
+Lambayeque,43.710
+Picsi,43.610
+Chepen,41.992
+Yurimaguas,41.827
+Huancavelica,41.576
+Sana,39.200
+Tambopata,38.966
+Juanjui,37.715
+Puerto Maldonado,37.543
+La Union,34.834
+Ferrenafe,34.357
+Sicuani,33.575
+La Oroya,33.345
+Chocope,32.370
+Nuevo Imperial,32.344
+Imperial,32.344
+Tambo Grande,30.033
+La Rinconada,29.678
+Pacasmayo,29.165
+Tocache,29.029
+Mollendo,28.953
+Chaupimarca,28.666
+Paramonga,27.631
+La Peca,27.045
+Chancay,26.958
+Hualmay,26.658
+Monsefu,25.707
+Marcavelica,25.645
+San Vicente de Canete,25.517
+Querecotillo,25.396
+Guadalupe,25.376
+Santa Ana,25.145
+Rioja,25.057
+Laredo,24.691
+Nazca,23.556
+Yanacancha,23.175
+Sechura,23.020
+Moche,22.581
+Santiago de Cao,21.982
+Huamachuco,21.768
+Paijan,21.128
+Jauja,21.057
+Viru,20.774
+Huaura,20.723
+Bagua Grande,20.382
+Chachapoyas,20.279
+Ayaviri,19.310
+Huanta,18.627
+Uchiza,17.742
+La Breita,17.693
+Andahuaylas,17.444
+Mala,17.260
+Zarumilla,16.907
+Camana,16.434
+San Pedro de Lloc,16.250
+Huarmey,16.172
+Yunguyo,16.140
+Chongoyape,16.061
+Ilave,16.033
+San Clemente,15.815
+Pimentel,15.552
+Satipo,15.532
+Minas de Marcona,15.478
+Junin,15.320
+Bellavista,15.231
+Coishco,15.083
+Chicama,14.915
+Saposoa,14.894
+Santa Maria,14.853
+Tabalosos,14.744
+San Ramon,14.708
+Celendin,14.660
+Chota,14.240
+Salinera Colan,14.210
+Puerto Santa,14.066
+Ascope,14.015
+Contamana,13.885
+Supe,13.719
+Lamas,13.693
+Eten,13.693
+Motupe,13.681
+Pativilca,13.583
+Cajabamba,13.486
+Bambamarca,13.351
+Azangaro,13.290
+Vice,12.915
+Chilca,12.884
+Atuncolla,12.654
+Pueblo Nuevo,12.471
+Morropon,12.307
+Zorritos,12.261
+Oxapampa,12.000
+Puerto Supe,11.450
+Concepcion,11.330
+Villa Tupac Amaru,11.159
+Caras,10.926
+Soritor,10.858
+Santa Rosa,10.625
+Puquio,10.491
+Santiago,10.449
+Otuzco,10.134
+Salaverry,10.066
+Chupaca,9.877
+Reque,9.808
+Olmos,9.800
+Ilabaya,9.492
+Sisa,9.477
+Las Lomas,9.450
+El Alto,9.303
+Quiruvilca,9.226
+Lagunas,9.197
+Calca,9.179
+Carhuamayo,9.122
+Aguas Verdes,9.106
+Mancora,9.101
+Subtanjalla,9.096
+Yauya,9.092
+Campoverde,8.945
+San Luis,8.862
+Cocachacra,8.799
+San Jeronimo,8.772
+Pacanga,8.750
+Huancabamba,8.553
+La Huaca,8.468
+San Miguel,8.400
+Pilcomay,8.169
+Putina,8.118
+Chazuta,8.029
+Buenos Aires,7.932
+San Ignacio,7.912
+Morococha,7.890
+Los Aquijes,7.848
+Hacienda Huancane,7.831
+Pacocha,7.588
+Urubamba,7.540
+Mochumi,7.460
+Villa Rica,7.448
+San Jose,7.434
+Coracora,7.420
+Talavera,7.381
+Juli,7.309
+Cajaruro,7.281
+Jepelacio,7.150
+Torata,7.054
+Tucume,7.043
+San Juan Bautista,6.871
+Ambo,6.865
+Perene,6.844
+Sicaya,6.842
+Mazamari,6.826
+Acolla,6.805
+Santiago de Chuco,6.759
+Huicungo,6.757
+Picota,6.697
+Morrope,6.662
+Pangoa,6.638
+Quilmana,6.442
+Punta de Bombon,6.336
+Oyotun,6.330
+Bellavista,6.320
+Oyon,6.276
+Vegueta,6.219
+Sayan,6.196
+Jayanca,6.126
+Macusani,6.044
+San Agustin,5.998
+Lluta,5.998
+Yanahuanca,5.992
+Bernal,5.916
+Palpa,5.883
+Anta,5.859
+Huayucachi,5.827
+Asentamiento Humano Nicolas de Pierola,5.800
+Barranca,5.779
+Pueblo Nuevo,5.766
+San Pedro de Cajas,5.758
+San Bartolo,5.733
+Yura,5.686
+Orcopampa,5.643
+San Jeronimo,5.609
+Pampas,5.521
+Caleta de Carquin,5.514
+Ramon Castilla,5.495
+Papayal,5.484
+Urcos,5.479
+Salitral,5.385
+Desaguadero,5.329
+San Miguel de Cauri,5.326
+Ayabaca,5.270
+Yungay,5.269
+Huasahuasi,5.146
+Tinyahuarco,5.066
+Carhuaz,5.044
+Tambo,5.032
