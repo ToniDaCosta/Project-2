@@ -1,0 +1,401 @@
+City,Population
+Bogota,7.674.366
+Cali,2.392.877
+Medellin,1.999.979
+Barranquilla,1.380.425
+Cartagena,952.024
+Cucuta,721.398
+Bucaramanga,571.820
+Pereira,440.118
+Santa Marta,431.781
+Ibague,421.685
+Bello,392.939
+Pasto,382.236
+Manizales,357.814
+Neiva,352.855
+Soledad,342.556
+Villavicencio,321.717
+Armenia,315.328
+Soacha,313.945
+Valledupar,308.237
+Itaguei,281.853
+Monteria,272.420
+Sincelejo,261.187
+Popayan,258.653
+Floridablanca,252.267
+Palmira,247.986
+Buenaventura,240.387
+Barrancabermeja,191.403
+Dosquebradas,179.583
+Tulua,165.501
+Envigado,163.007
+Cartago,134.827
+Maicao,130.348
+Florencia,130.337
+Girardot City,130.289
+Sogamoso,126.551
+Guadalajara de Buga,118.004
+Tunja,117.479
+Giron,108.466
+Malambo,101.534
+Magangue,100.313
+Facatativa,94.611
+Riohacha,92.431
+Duitama,92.040
+Zipaquira,91.235
+Fusagasuga,88.820
+Cienaga,88.311
+Tumaco,86.713
+Apartado,86.438
+Piedecuesta,86.387
+Montelibano,85.000
+Ocana,83.511
+La Dorada,81.950
+Ipiales,77.729
+Quibdo,75.104
+Aguachica,73.360
+Yumbo,71.436
+Arauca,69.264
+Sabanalarga,68.535
+Chinchina,68.512
+Caldas,65.565
+Villa del Rosario,64.951
+Chia,64.569
+Rionegro,62.291
+Calarca,62.170
+Yopal,61.029
+Sahagun,59.188
+Fundacion,59.175
+Los Patios,58.661
+San Andres,58.257
+Caucasia,58.034
+Santa Rosa de Cabal,57.928
+Espinal,56.213
+Turbaco,56.171
+Cerete,55.513
+El Banco,54.522
+Funza,54.421
+Pitalito,53.685
+Puerto Tejada,53.674
+Pamplona,53.587
+Agustin Codazzi,51.478
+Turbo,50.508
+Madrid,50.437
+Arjona,50.405
+La Estrella,49.386
+Copacabana,49.169
+Plato,48.606
+Chigorodo,48.443
+El Carmen de Bolivar,47.957
+Florida,47.173
+Chiquinquira,45.294
+Jamundi,44.833
+Pradera,44.630
+Baranoa,44.078
+Piendamo,44.000
+Sevilla,41.612
+Santander de Quilichao,40.798
+El Bagre,40.798
+Acacias,40.627
+Lorica,40.605
+Segovia,39.938
+Corozal,39.800
+El Cerrito,38.390
+Payande,37.496
+Planeta Rica,37.297
+La Ceja,36.584
+San Marcos,36.549
+Montenegro,36.499
+Villamaria,35.302
+Sabaneta,34.172
+Puerto Berrio,33.983
+La Virginia,33.835
+San Gil,33.592
+Pivijay,33.492
+San Onofre,32.957
+Caicedonia,32.417
+Granada,32.365
+Belalcazar,31.800
+Quimbaya,31.391
+Mompos,30.861
+San Luis de Since,30.768
+Puerto Asis,29.782
+Leticia,29.666
+San Juan Nepomuceno,29.619
+Morales,29.617
+Garzon,29.451
+Tame,29.099
+Zarzal,28.761
+El Charco,28.673
+Libano,28.211
+Honda,28.158
+Palmar de Varela,28.084
+Aracataca,27.704
+Roldanillo,27.561
+Santiago de Tolu,27.390
+Puerto Boyaca,27.310
+La Tebaida,27.098
+Mosquera,27.005
+San Juan del Cesar,26.848
+La Mesa,26.699
+Ariguani,26.246
+Tierralta,26.242
+Puerto Colombia,26.227
+Melgar,25.980
+Santo Tomas,25.847
+Anaime,25.715
+Anserma,25.242
+Cajica,24.999
+Sabanagrande,24.880
+Buenaventura,24.842
+San Carlos,24.615
+Marinilla,24.171
+Cumaribo,23.990
+Candelaria,23.989
+Fonseca,23.509
+La Union,23.459
+Maria la Baja,23.401
+Sucre,23.210
+Sibate,23.208
+San Sebastian de Mariquita,23.104
+Campo de la Cruz,22.803
+San Carlos,22.678
+Ayapel,22.602
+Campoalegre,22.568
+Yarumal,22.368
+San Jose del Guaviare,22.136
+Curumani,22.084
+Mocoa,22.035
+Sampues,21.204
+Carmen de Viboral,21.152
+Flandes,20.919
+Patia,20.807
+Villeta,20.689
+Carepa,20.627
+Villa de San Diego de Ubate,20.485
+Morales,20.375
+Barbosa,20.372
+San Jacinto,20.265
+Tuquerres,20.184
+Circasia,20.113
+Lerida,20.069
+Villanueva,20.032
+Chaparral,19.982
+Galapa,19.732
+Aguadas,19.727
+Guacari,19.637
+Chinu,19.596
+Padua,19.311
+La Plata,19.275
+Riosucio,18.950
+Urrao,18.846
+Zaragoza,18.795
+Malaga,18.739
+Villanueva,18.699
+Repelon,18.685
+La Jagua de Ibirico,18.555
+San Benito Abad,18.181
+El Copey,18.136
+Salamina,18.076
+Socorro,17.752
+Santuario,17.722
+Fresno,17.668
+Cienaga de Oro,17.623
+Andalucia,17.432
+Barrancas,17.350
+Sonson,17.232
+Chimichagua,16.746
+Barbosa,16.707
+Pacho,16.698
+Puerto Lopez,16.678
+Corinto,16.579
+Andes,16.419
+Manzanares,16.278
+Puerto Santander,16.275
+San Martin,16.273
+Ciudad Bolivar,16.225
+El Reten,15.901
+Darien,15.763
+Santa Lucia,15.760
+Belen de Umbria,15.698
+Aguazul,15.669
+Viterbo,15.216
+Chiriguana,15.181
+La Union,15.061
+Guamo,14.881
+Chicoral,14.686
+Guaduas,14.392
+Los Palmitos,14.385
+Guarne,14.270
+Manati,14.140
+San Pablo,13.983
+Santa Ana,13.950
+Guapi,13.853
+Istmina,13.788
+Toro,13.764
+Orito,13.708
+Puerto Wilches,13.705
+Tibu,13.565
+Paipa,13.554
+Puebloviejo,13.523
+El Zulia,13.521
+Samaniego,13.515
+Ovejas,13.284
+La Paz,13.249
+Luruaco,13.236
+Miranda,13.223
+El Doncello,13.082
+Villanueva,12.791
+Supia,12.784
+Santa Barbara,12.743
+San Estanislao,12.596
+Bugalagrande,12.418
+Ansermanuevo,12.332
+Dagua,12.320
+Puerto Rico,12.306
+Amaga,12.170
+El Bordo,12.072
+Santa Fe de Antioquia,11.829
+Sitionuevo,11.817
+Neira,11.755
+Polonuevo,11.727
+Armero-Guyabal,11.720
+San Antero,11.610
+Dabeiba,11.548
+San Pedro,11.489
+Chivolo,11.457
+Candelaria,11.427
+Venadillo,11.310
+Pelaya,11.306
+Sabana de Torres,11.291
+Cimitarra,11.267
+San Vicente de Chucuri,11.265
+Cumaral,11.263
+Ponedera,11.221
+Natagaima,11.217
+Marsella,11.158
+Junin,11.158
+Majagual,11.139
+Garagoa,11.102
+San Pedro de Uraba,11.095
+La Victoria,11.064
+Gaitania,11.000
+Soata,10.945
+Velez,10.905
+Quinchia,10.895
+Agua de Dios,10.875
+Purificacion,10.846
+Necocli,10.835
+San Juan de Uraba,10.825
+Abrego,10.822
+Algeciras,10.792
+Ituango,10.769
+Valencia,10.652
+San Alberto,10.627
+Santa Rosa,10.604
+Pailitas,10.480
+Sandona,10.401
+Suan,10.381
+Turbana,10.235
+Tocaima,10.235
+Puerto Carreno,10.216
+Santa Rosa de Osos,10.191
+La Calera,10.175
+Tado,10.095
+Algarrobo,10.042
+Donmatias,10.011
+Suarez,9.985
+Valle del Guamuez,9.969
+Arauquita,9.950
+Condoto,9.897
+Palermo,9.896
+Coello,9.887
+Puerto Salgar,9.863
+Gigante,9.829
+Olaya Herrera,9.820
+Moniquira,9.785
+Amalfi,9.733
+Planadas,9.709
+Manaure,9.703
+Chinacota,9.667
+Vegachi,9.618
+Zambrano,9.565
+Restrepo,9.545
+Curillo,9.539
+San Agustin,9.481
+Galeras,9.459
+Sibundoy,9.458
+Aranzazu,9.327
+Concordia,9.324
+Cajamarca,9.309
+Saldana,9.237
+Riofrio,9.236
+Mahates,9.224
+Calamar,9.180
+Usiacuri,9.146
+Alcala,9.135
+Puerto Leguizamo,9.098
+San Juan de Betulia,9.092
+Pueblo Nuevo,9.075
+Villa Rica,9.070
+Guamal,9.016
+Becerril,9.002
+Astrea,8.995
+San Bernardo del Viento,8.967
+Fredonia,8.950
+Lebrija,8.949
+Santa Rosa del Sur,8.904
+San Pedro,8.801
+Clemencia,8.775
+La Cruz,8.751
+Juan de Acosta,8.655
+Frontino,8.603
+Urumita,8.509
+San Antonio,8.476
+Achi,8.434
+Sopo,8.396
+Arboletes,8.380
+Yotoco,8.362
+La Union,8.361
+Remolino,8.308
+Tolu Viejo,8.260
+Silvania,8.237
+Pacora,8.218
+Cisneros,8.204
+Timana,8.203
+Tubara,8.180
+Pensilvania,8.173
+Soplaviento,8.067
+Rivera,8.044
+San Diego,8.014
+Muzo,7.977
+Aipe,7.964
+Caqueza,7.958
+Manaure Balcon del Cesar,7.953
+El Dovio,7.942
+Retiro,7.941
+Sardinata,7.872
+Palestina,7.865
+Monterrey,7.759
+Jerico,7.750
+Jardin,7.747
+San Carlos,7.742
+Cicuco,7.662
+Barbacoas,7.633
+El Paujil,7.618
+Cota,7.615
+Choconta,7.592
+Cartagena del Chaira,7.586
+Cumbal,7.529
+Uribia,7.519
+Yondo,7.516
+Restrepo,7.511
+El Pinon,7.481
+Silvia,7.474
+Abejorral,7.360
+Gamarra,7.327
+Inirida,7.298
+Obando,7.298
+El Tambo,7.279
+San Rafael,7.245
+La Dorada,7.185
