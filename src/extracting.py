@@ -22,6 +22,22 @@ df_grow.groupby("country")[["1990 population", "2000 population", "2010 populati
 df_india_china = df[df["country"].isin(["India", "China"])][["country","2023 population", "area (km²)", "density (km²)"]]
 df_world = df[["country","world percentage","growth rate"]].head(5)
 
+import pandas as pd
+
+def process_world_data(file_path):
+    
+    df = pd.read_csv(file_path)
+
+    df_grow = df[["rank", "country", "1990 population", "2000 population", "2010 population", "2020 population"]]
+    df_grow_mean = df_grow.groupby("country")[["1990 population", "2000 population", "2010 population", "2020 population"]].mean()
+
+    df_india_china = df[df["country"].isin(["India", "China"])][["country", "2023 population", "area (km²)", "density (km²)"]]
+
+    df_world_top5 = df[["country", "world percentage", "growth rate"]].head(5)
+
+    return df_grow_mean, df_india_china, df_world_top5
+
+
 # Second : We have cleaned an API from the websites and created definitions for easy usage.
 
 url = "https://worldpopulationreview.com/countries/cities/china"

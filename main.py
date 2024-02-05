@@ -9,10 +9,26 @@ import src.visualization as viz
 
 df = ext.city_pop("https://worldpopulationreview.com/countries/cities/colombia")
 
-# Use the viz. to visualize the data extracted.
+# Use the viz. to visualize the data extracted from API
 
 viz.counting_cities(df, "data/output_test.csv")
 
+#This is for the top 5 countries
 
+viz.top_5_countries()
 
+#This is for the top 5 growing with percentage vs growing rate
 
+viz.top_5_grow()
+
+# Top 5 continents grow from 1990 to 2023
+
+viz.top_5_continents()
+
+# Area vs Density, India and China.
+
+viz.china_vs_india()
+
+# Use this one to extract the top 5 from the world dataframe,
+
+ext.process_world_data()
